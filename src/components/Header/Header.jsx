@@ -3,7 +3,7 @@ import React, { useRef } from "react";
 import { Container, Row, Col } from "reactstrap";
 import { Link, NavLink } from "react-router-dom";
 import "../../styles/header.css";
-import Logos from '../../assets/all-images/slider-img/Ardo Cars white and orange (1).png'
+import Logos from '../../../public/Ardo Cars white and orange (1).png'
 
 
 const navLinks = [
