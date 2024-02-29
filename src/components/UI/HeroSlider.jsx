@@ -40,7 +40,7 @@ const HeroSlider = () => {
             <h1 className="text-light mb-4">Ready to experience your favorite cars in person?!</h1>
 
             <button className="btn reserve__btn mt-4">
-              <Link to="/cars">Schedule a test drive with us today</Link>
+              <Link to="/cars">Buy now</Link>
             </button>
           </div>
         </Container>

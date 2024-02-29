@@ -3,6 +3,8 @@ import React, { useRef } from "react";
 import { Container, Row, Col } from "reactstrap";
 import { Link, NavLink } from "react-router-dom";
 import "../../styles/header.css";
+import Logos from '../../assets/all-images/slider-img/Ardo Cars white and orange (1).png'
+
 
 const navLinks = [
     {
@@ -70,7 +72,8 @@ const Header = () => {
                             <div className="logo">
                                 <h1>
                                     <Link to="/home" className=" d-flex align-items-center gap-2">
-                                        <i className="ri-car-line"></i>
+                                        <i className="ri-car-line">
+                                        </i>
                                         <span>
                       Ardo Car <br /> Service
                     </span>
