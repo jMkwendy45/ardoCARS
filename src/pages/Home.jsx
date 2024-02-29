@@ -27,13 +27,13 @@ const Home = () => {
                 <div className="hero__form">
                     <Container>
                         <Row className="form__row">
-                            <Col lg="4" md="4">
+                            <Col lg="4" md="4" sm="4">
                                 <div className="find__cars-left">
                                     <h2>Find your best car here</h2>
                                 </div>
                             </Col>
 
-                            <Col lg="8" md="8" sm="12">
+                            <Col lg="8" md="8" sm="14">
                                 <FindCarForm />
                             </Col>
                         </Row>

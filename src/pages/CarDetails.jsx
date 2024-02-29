@@ -8,6 +8,7 @@ import carData from "../assets/data/carData";
 import Helmet from "../components/Helment/Helment";
 import PaymentMethod from "../components/UI/PaymentMethod";
 import BookingForm from "../components/UI/BookingForm";
+import Header from "../components/Header/Header";
 
 
 const CarDetails = () => {
@@ -21,6 +22,7 @@ const CarDetails = () => {
 
     return (
         <Helmet title={singleCarItem.carName}>
+            <Header/>
             <section>
                 <Container>
                     <Row>
