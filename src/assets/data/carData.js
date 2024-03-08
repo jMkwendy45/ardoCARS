@@ -38,7 +38,7 @@ const carData = [
     seatType: "Heated seats",
     automatic: "Automatic",
     description:
-      " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
+      "The Toyota Aventador, boasting a remarkable rating of 102, stands as a pinnacle of automotive excellence within the brand's lineup.",
   },
 
   {
@@ -54,7 +54,7 @@ const carData = [
     seatType: "Heated seats",
     automatic: "Automatic",
     description:
-      " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
+      "Experience unparalleled performance with the BMW Model-2022, offering a seamless blend of power and efficiency",
   },
 
   {
@@ -70,7 +70,7 @@ const carData = [
     seatType: "Heated seats",
     automatic: "Automatic",
     description:
-      " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
+      "Whether navigating busy city streets or cruising on the open road, the Nissan delivers unmatched convenience and ease",
   },
 
   {
@@ -85,8 +85,7 @@ const carData = [
     gps: "GPS Navigation",
     seatType: "Heated seats",
     automatic: "Automatic",
-    description:
-      " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
+    description:"From advanced airbag systems to cutting-edge collision avoidance technology, your safety is always the top priority"
   },
 
   {
@@ -101,8 +100,7 @@ const carData = [
     gps: "GPS Navigation",
     seatType: "Heated seats",
     automatic: "Automatic",
-    description:
-      " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
+    description:"Whether tackling urban streets or venturing off the beaten path, this vehicle is your ultimate companion for exploration and adventure"
   },
 
   {
@@ -118,7 +116,7 @@ const carData = [
     seatType: "Heated seats",
     automatic: "Automatic",
     description:
-      " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
+      "Embrace the future of mobility with the Toyota Aventador's eco-friendly design, boasting impressive fuel efficiency and reduced emissions",
   },
 
   {
@@ -134,7 +132,7 @@ const carData = [
     seatType: "Heated seats",
     automatic: "Automatic",
     description:
-      " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
+      "Say goodbye to getting lost and hello to stress-free travel",
   },
   {
     id: 3,
@@ -149,7 +147,7 @@ const carData = [
     seatType: "Heated seats",
     automatic: "Automatic",
     description:
-        " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
+        "Its impressive speed of 20kmpl ensures a smooth and exhilarating driving experience on any journey.",
   },
 ];
 
