@@ -2,6 +2,7 @@ import React, { useRef } from "react";
 
 import { Container, Row, Col } from "reactstrap";
 import { Link, NavLink } from "react-router-dom";
+import logo from '../../assets/all-images/Ardo Cars2.png';
 import "../../styles/header.css";
 
 
@@ -71,9 +72,10 @@ const Header = () => {
                         <Col lg="4" md="3" sm="4">
                             <div className="logo">
                                 <h1>
-                                    <Link to="/home" className=" d-flex align-items-center gap-2">
-                                        <i className="ri-car-line">
-                                        </i>
+                                    <Link to="/home" className=" d-flex align-items-center gap-3">
+                                        <img src={logo} alt="" className="logo-img"/>
+                                        {/* <i className="ri-car-line">
+                                        </i> */}
                                         <span>
                       Ardo Car <br /> Service
                     </span>
