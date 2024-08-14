@@ -51,10 +51,7 @@ const Footer = () => {
                         <p className="footer__logo-content">
                             Discover Your Dream Ride at Ardo Cars. With a commitment to quality,
                             integrity, and exceptional service, we're here to help you find the perfect
-                            vehicle to fit your lifestyle and budget. Explore our extensive inventory of
-                            pre-owned and certified cars, trucks, and SUVs, and experience the difference
-                            of shopping with us.
-                            Contact us today to schedule a test drive or learn more about our financing options.
+                            vehicle to fit your lifestyle and budget. 
                         </p>
                     </Col>
 
@@ -100,7 +97,7 @@ const Footer = () => {
                         <div className="footer__bottom">
                             <p className="section__description d-flex align-items-center justify-content-center gap-1 pt-4">
                                 <i class="ri-copyright-line"></i>Copyright {year}, Developed by
-                                DOM. All rights reserved.
+                                ARDO. All rights reserved.
                             </p>
                         </div>
                     </Col>

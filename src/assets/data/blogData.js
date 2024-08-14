@@ -12,10 +12,9 @@ const blogData = [
     time: "9pm",
     imgUrl: img01,
     description:
-      " The quest for a new car, many buyers are faced with the dilemma of choosing between a brand-new vehicle and a used one. However, there exists a third option that combines the best of both worlds – certified pre-owned (CPO) vehicles. " +
-        " At di sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.  Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.  Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
+      "When looking to purchase a car, many buyers face the choice between new and used vehicles. However, certified pre-owned (CPO) vehicles offer the reliability of new cars with the affordability of used ones. CPO vehicles undergo rigorous inspections, ensuring they meet high standards before being sold. This makes them a smart choice for buyers who want a dependable car without the new-car price tag.",
     quote:
-      "Voluptua dolore takimata dolor sadipscing nonumy consetetur et. Stet sed dolores dolores dolores dolores eos.",
+      "A well-maintained car is not just a means of transport; it’s a companion on your journey. Choose wisely, drive confidently.",
   },
 
   {
@@ -26,9 +25,9 @@ const blogData = [
     time: "9pm",
     imgUrl: img02,
     description:
-      " Manufacturers typically offer extended warranties on CPO cars, providing buyers with additional protection against unforeseen repairs. gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.  Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.  Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.  Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.  Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
+      "Dealing with a broken-down car can be stressful, but knowing your options helps. Consider whether repairing or replacing your vehicle is more cost-effective. Certified pre-owned cars often come with extended warranties, giving you peace of mind and potentially saving you from costly repairs down the road. Ensure your next car purchase is backed by a strong warranty for added security.",
     quote:
-      "Voluptua dolore takimata dolor sadipscing nonumy consetetur et. Stet sed dolores dolores dolores dolores eos.",
+      "Cars, like all machines, require care and attention. Treat them well, and they’ll serve you faithfully.",
   },
 
   {
@@ -39,9 +38,9 @@ const blogData = [
     time: "9pm",
     imgUrl: img03,
     description:
-      " Cost-conscious buyers will appreciate the significant savings that come with purchasing a certified pre-owned vehicle.vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.  Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.  Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.  Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.  Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
+      "Selecting the right car involves balancing budget, needs, and long-term value. Certified pre-owned vehicles offer excellent value, combining the benefits of a new car’s reliability with the savings of a used car. Always consider the car’s history, maintenance records, and warranty options when making your decision. A well-chosen car can provide years of satisfaction and trouble-free driving.",
     quote:
-      "Voluptua dolore takimata dolor sadipscing nonumy consetetur et. Stet sed dolores dolores dolores dolores eos.",
+      "Choosing the right car is more than just picking a model; it’s about finding a vehicle that fits your lifestyle and needs.",
   },
 ];
 
