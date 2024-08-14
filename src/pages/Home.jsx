@@ -14,6 +14,7 @@ import BecomeDriverSection from "../components/UI/BecomeDriverSection";
 import Testimonial from "../components/UI/Testimonial";
 import BlogList from "../components/UI/BlogList";
 import Header from "../components/Header/Header";
+import bmw from '../assets/all-images/cars-img/bmw-offer.png'
 
 
 const Home = () => {
@@ -23,7 +24,7 @@ const Home = () => {
             {/* ============= hero section =========== */}
             <section className="p-0 hero__slider-section">
                 <HeroSlider />
-
+ 
                 <div className="hero__form">
                     <Container>
                         <Row className="form__row">
@@ -32,13 +33,12 @@ const Home = () => {
                                     <h2>Find your best car here</h2>
                                 </div>
                             </Col>
-
                             <Col lg="8" md="8" sm="14">
                                 <FindCarForm />
                             </Col>
                         </Row>
                     </Container>
-                </div>
+                </div> 
             </section>
             {/* =========== about section ================ */}
             <AboutSection />

@@ -76,9 +76,6 @@ const Header = () => {
                                         <img src={logo} alt="" className="logo-img"/>
                                         {/* <i className="ri-car-line">
                                         </i> */}
-                                        <span>
-                      Ardo Car <br /> Service
-                    </span>
                                     </Link>
                                 </h1>
                             </div>
@@ -103,7 +100,7 @@ const Header = () => {
                 </span>
                                 <div className="header__location-content">
                                     <h4>Saturday to Friday</h4>
-                                    <h6>9am - 7pm</h6>
+                                    {/* <h6>9am - 7pm</h6> */}
                                 </div>
                             </div>
                         </Col>
@@ -116,7 +113,7 @@ const Header = () => {
                         >
                             <button className="header__btn btn ">
                                 <Link to="/contact">
-                                    <i className="ri-phone-line"></i> Request a call
+                                    <i className="ri-phone-line"></i>08132776029
                                 </Link>
                             </button>
                         </Col>
@@ -149,14 +146,14 @@ const Header = () => {
                             </div>
                         </div>
 
-                        <div className="nav__right">
+                        {/* <div className="nav__right">
                             <div className="search__box">
                                 <input type="text" placeholder="Search" />
                                 <span>
                   <i className="ri-search-line"></i>
                 </span>
                             </div>
-                        </div>
+                        </div> */}
                     </div>
                 </Container>
             </div>
